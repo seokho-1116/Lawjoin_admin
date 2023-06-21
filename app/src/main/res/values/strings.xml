@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">법Join 관리자용</string>
+    <string name="msg_approve">승인</string>
+    <string name="msg_denied">거절</string>
+</resources>
